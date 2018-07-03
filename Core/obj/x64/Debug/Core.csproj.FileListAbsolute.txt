@@ -1,0 +1,17 @@
+C:\Users\ZYF\source\repos\CharacterIcon\Core\bin\x64\Debug\Core.dll
+C:\Users\ZYF\source\repos\CharacterIcon\Core\bin\x64\Debug\Core.pdb
+C:\Users\ZYF\source\repos\CharacterIcon\Core\bin\x64\Debug\Core.pri
+C:\Users\ZYF\source\repos\CharacterIcon\Core\obj\x64\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\ZYF\source\repos\CharacterIcon\Core\obj\x64\Debug\Core.dll
+C:\Users\ZYF\source\repos\CharacterIcon\Core\obj\x64\Debug\Core.pdb
+C:\Users\ZYF\source\repos\CharacterIcon\Core\obj\x64\Debug\priconfig.xml
+C:\Users\ZYF\source\repos\CharacterIcon\Core\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\ZYF\source\repos\CharacterIcon\Core\obj\x64\Debug\layout.resfiles
+C:\Users\ZYF\source\repos\CharacterIcon\Core\obj\x64\Debug\layout.resfiles.intermediate
+C:\Users\ZYF\source\repos\CharacterIcon\Core\obj\x64\Debug\resources.resfiles
+C:\Users\ZYF\source\repos\CharacterIcon\Core\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\ZYF\source\repos\CharacterIcon\Core\obj\x64\Debug\pri.resfiles
+C:\Users\ZYF\source\repos\CharacterIcon\Core\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\ZYF\source\repos\CharacterIcon\Core\obj\x64\Debug\qualifiers.txt
+C:\Users\ZYF\source\repos\CharacterIcon\Core\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\ZYF\source\repos\CharacterIcon\Core\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
